@@ -42,7 +42,7 @@
 // console.log(num);
 
 // Задание 8
-// let age = prompt("Сколько вам  лет?");
+// let age =  prompt("Сколько вам  лет?");
 // console.log(age);
 
 // Задание 9
