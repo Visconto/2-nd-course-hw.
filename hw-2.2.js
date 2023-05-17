@@ -14,12 +14,12 @@
 
 // Задание 4
 
-// let b = 10;
+// let  q = 10;
 // let c = 20;
-// console.log(b + c);
-// console.log(b - c);
-// console.log(b * c);
-// console.log(b / c);
+// console.log(q + c);
+// console.log(q - c);
+// console.log(q * c);
+// console.log(q / c);
 
 //Задание 5
 // let result = 2 ** 5;
