@@ -73,7 +73,7 @@
 //   "age",
 //   "isAdmit"
 // );
-// alert(user[info]);
+// console.log(user[info]);
 
 // Звадание 10
 // let userName = prompt("Как тебя зовут?");
