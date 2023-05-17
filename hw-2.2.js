@@ -67,9 +67,9 @@
 // delete user.city of residence;
 
 // Задание 9.4
-let user;
-user = prompt("Какую информацию хотите узнать о пользователе?");
-console.log(user);
+// let user;
+// user = prompt("Какую информацию хотите узнать о пользователе?");
+// console.log(user);
 
 // Звадание 10
 // let userName = prompt("Как тебя зовут?");
