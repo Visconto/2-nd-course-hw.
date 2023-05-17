@@ -5,12 +5,12 @@
 // console.log(a);
 
 // Задание 2
-// let iphone = 2007;
-// console.log(iphone);
+// let  year = 2007;
+// console.log(year);
 
 //Задание 3
-// let Name = "Brendan Eich";
-// console.log(Name);
+// let developer name = "Brendan Eich";
+// console.log(developer name);
 
 // Задание 4
 
@@ -39,6 +39,8 @@
 // num /= 3;
 // num += 1;
 // num -= 1;
+// num++;
+// num--;
 // console.log(num);
 
 // Задание 8
@@ -54,20 +56,20 @@
 // console.log(user);
 
 // Задание 9.1
-// user.cityOfResidence = "Kazan";
+// user['city of residence']= "Kazan"
 // console.log(user);
 
 // Задание 9.2
-// user[`age`] = 30;
+// user.age = 30
 // console.log(user);
 
 // Задание 9.3
-// delete user.cityOfResidence;
+// delete user.city of residence;
 
 // Задание 9.4
-// let info;
-// info = prompt("Какую информацию хотите узнать о пользователе?");
-// console.log(info);
+let user;
+user = prompt("Какую информацию хотите узнать о пользователе?");
+console.log(user);
 
 // Звадание 10
 // let userName = prompt("Как тебя зовут?");
