@@ -118,9 +118,3 @@ body {
   margin-left: 32px;
   margin-top: 236px;
 }
-
-.footer-link {
-  display: flex;
-  justify-content: center;
-  gap: 32px;
-}
