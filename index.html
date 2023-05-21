@@ -13,37 +13,39 @@
     <link rel="stylesheet" href="style.css" />
     <title>homework1</title>
   </head>
+
   <body>
     <header class="top center">
       <h1 class="title">Добро пожаловать на мой сайт !</h1>
       <p class="title-paragraph">
         Вам предстоит пройти несколько увлекательных игр. Если готов нажимай
-        <b>поехали</b> и <b>приступай</b>
+        <b>поехали</b>&nbsp;и&nbsp;
+        <b>приступай</b>
       </p>
-      <button class="button">Поехали</button>
+      <div class="top__form">
+        <button class="button">Поехали</button>
+      </div>
     </header>
     <section class="game center">
-      <div class="game__content">
-        <div class="game__link">
-          <a href="#"
-            ><img class="game__photo" src="img/игра 1.png" alt="game 1"
-          /></a>
-          <h3 class="game-text">Игра 1</h3>
+      <div class="game__block">
+        <div class="game__item">
+          <a href="#" class="game__link">Игра 1</a>
         </div>
-        <div class="game__link">
-          <a href="#"
-            ><img class="game__photo" src="img/игра 2.png" alt="game 2"
-          /></a>
-          <h3 class="game-text">Игра 2</h3>
+        <img class="game__img" src="img/Игра 1.jpeg" alt="game-1" />
+      </div>
+      <div class="game__block">
+        <div class="game__item">
+          <a href="#" class="game__link">Игра 2</a>
         </div>
-        <div class="game__link">
-          <a href="#"
-            ><img class="game__photo" src="img/игра 3.png" alt="game 3"
-          /></a>
-          <h3 class="game-text">Игра 3</h3>
+        <img class="game__img" src="img/игра 2.jpeg" alt="game-2" />
+      </div>
+      <div class="game__block">
+        <div class="game__item">
+          <a href="#" class="game__link">Игра 3</a>
         </div>
+        <img class="game__img" src="img/игра 3.jpeg" alt="game-3" />
       </div>
     </section>
-    <script src="hw-2.2.js"></script>
+    <script src="hw-2.3.js"></script>
   </body>
 </html>
