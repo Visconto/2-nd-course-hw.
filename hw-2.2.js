@@ -41,8 +41,6 @@
 // num -= 1;
 // num++;
 // num--;
-// ++num;
-// --num;
 
 // console.log(num);
 
