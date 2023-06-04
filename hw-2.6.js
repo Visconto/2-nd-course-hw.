@@ -82,12 +82,11 @@
 
 // Задание 12
 
-// function nameLength(str) {
-//   const words = str.split(" ");
-//   return words.map((str) => `${str.length}`);
-// }
-
-// console.log(nameLength("слово  слог длинноепредложение буква"));
+// let word = ["слово", " ", " длиное предолжение", "буква"];
+// let lenths = word.map(function (words) {
+//   return words.length;
+// });
+// console.log(lenths.join([","]));
 
 // Задание 13
 // let array = [-1, 0, 5, -10, 56];
