@@ -121,6 +121,15 @@ body {
 .game__img:hover {
   border: 1px solid rgb(4, 165, 240);
 }
+.memorize {
+  max-width: 1440px;
+  height: 800px;
+  background: #000915;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 158px;
+}
 .seasons {
   max-width: 1440px;
   height: 800px;
