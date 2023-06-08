@@ -128,6 +128,17 @@ body {
   border: 1px solid rgb(4, 165, 240);
 }
 
+.memorize {
+  max-width: 1440px;
+  height: 800px;
+  background: #000915;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-column-gap: 158px;
+       column-gap: 158px;
+}
+
 .seasons {
   max-width: 1440px;
   height: 800px;
@@ -254,6 +265,18 @@ body {
   }
   .game__img {
     width: 343px;
+  }
+  .memorize {
+    max-width: 1440px;
+    height: 800px;
+    background: #000915;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    -moz-column-gap: 135px;
+    column-gap: 135px;
+    flex-direction: column-reverse;
   }
   .seasons {
     max-width: 1440px;
